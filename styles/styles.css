@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Esteban&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+
+* {
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.stApp{
+    margin: 0;
+    padding: 0;
+}
+.imgcontainer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    width: auto;
+}
+.profileimg{
+    background-image: url('media/profile.png');
+}
