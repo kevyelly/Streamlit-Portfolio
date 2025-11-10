@@ -296,7 +296,7 @@ with c2:
             with c:
                 st.markdown(hp.GMAIL_CLICKABLE, unsafe_allow_html=True)
                 st.markdown(f'''
-                        <p style="text-align: center; margin:0;color: #e5e8f3; font-size: 0.6em;font-weight: 600" >bebedorkarolvincent@gmail.com</p>''',
+                        <p style="text-align: center; margin:0;color: #e5e8f3; font-size: 0.5em;font-weight: 600" >bebedorkarolvincent@gmail.com</p>''',
                             unsafe_allow_html=True)
                 st.markdown(f'''
                             <p style="text-align: center;margin-top:0;margin-bottom:0.5rem;font-style:italic;display: block; color: #e5e8f3; font-size: 0.7em; font-weight: 400" >Gmail</p>''',
